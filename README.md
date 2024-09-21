@@ -4,7 +4,7 @@
 `Ira`, `Magda`, `Tamas`
 
 ### Placement
-- 10
+- 10th
 
 ----
 ### About The Contest
