@@ -1,9 +1,13 @@
 # BAPC - Algorithm Programming Contest
-## VUTeam Solutions
+## VUTeam Solutions 
+### Members
 `Ira`, `Magda`, `Tamas`
 
+### Placement
+- 10
+
 ----
-## About The Contest
+### About The Contest
 https://2024.bapc.eu
 
 ----
